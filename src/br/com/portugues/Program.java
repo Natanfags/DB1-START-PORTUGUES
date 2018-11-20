@@ -2,9 +2,9 @@ package br.com.portugues;
 
 public class Program {
 
-	int totalCharacters = 0;
-	int totalVowels = 0;
-	int totalSpaces = 0;
+	private int totalCharacters = 0;
+	private int totalVowels = 0;
+	private int totalSpaces = 0;
 
 	void calculate(String entrada) {
 
